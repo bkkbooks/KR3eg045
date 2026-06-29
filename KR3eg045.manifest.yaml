@@ -1,0 +1,471 @@
+canonical_identifier: bkk:krp/KR3eg045/v1
+canonical_location: https://kanripo.org/bkk/KR3eg045/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 瀉疫新論
+  identifiers:
+    krp: KR3eg045
+  tags:
+    kr-categories: KR3eg
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg045.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg045_000.yaml, hash: 'sha256:a911d9151dda38e644fbd5478e9e921dc8da91c93b89cdf1ea08502611ef2dc5'}
+  - {seq: 1, filename: KR3eg045_001.yaml, hash: 'sha256:0b4262467a57713cb6e7994fb397628f099cacda8420236918ce953078a733a4'}
+  - {seq: 3, filename: KR3eg045_003.yaml, hash: 'sha256:c302eb7ff7c9bed98cdc8fe3a3b2c13b98f5c2fa4ae8bb47db3d0ee1ff1268eb'}
+  - {seq: 0, filename: KR3eg045_000.yaml, hash: 'sha256:a911d9151dda38e644fbd5478e9e921dc8da91c93b89cdf1ea08502611ef2dc5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg045_000.markers.yaml, hash: 'sha256:2d8c3dd96bea71e3587e740a82639c97580e369ee1beec37c08f9cfd644a5bea'}
+  - {seq: 1, role: markers, filename: assets/KR3eg045_001.markers.yaml, hash: 'sha256:287181a57f723aec9e0d02386c8cae6efe1f16ee56ca3d05acc2b0def9246cb6'}
+  - {seq: 3, role: markers, filename: assets/KR3eg045_003.markers.yaml, hash: 'sha256:a1f685a53cb65665da0a9005668e8e54ed89b694144d26598eb1401e3a6c2f95'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg045_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 408
+  label: 序一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg045_jc_000-d3.h1s1
+    span:
+    - front
+    - 408
+    - 759
+  label: 序二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg045_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 484
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 17990
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d2
+    span:
+    - body
+    - 2
+    - 1109
+  label: 異域傳染
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d3
+    span:
+    - body
+    - 1109
+    - 1536
+  label: 大疫之歲宜清解逐穢
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d4
+    span:
+    - body
+    - 1536
+    - 2209
+  label: 寒熱因時或熱症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d5
+    span:
+    - body
+    - 2209
+    - 2881
+  label: 戒發表
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d6
+    span:
+    - body
+    - 2881
+    - 3738
+  label: 論下法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d7
+    span:
+    - body
+    - 3738
+    - 4577
+  label: 暴解之後忌溫劑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d8
+    span:
+    - body
+    - 4577
+    - 4944
+  label: 疾有主客
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d9
+    span:
+    - body
+    - 4944
+    - 6563
+  label: 病症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d10
+    span:
+    - body
+    - 6563
+    - 7475
+  label: 脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d11
+    span:
+    - body
+    - 7475
+    - 7870
+  label: 舌苔舌冰冷
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d12
+    span:
+    - body
+    - 7870
+    - 9233
+  label: 治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d13
+    span:
+    - body
+    - 9233
+    - 9844
+  label: 嘔吐
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d14
+    span:
+    - body
+    - 9844
+    - 10285
+  label: 渴
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d15
+    span:
+    - body
+    - 10285
+    - 11635
+  label: 厥冷
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d16
+    span:
+    - body
+    - 11635
+    - 11868
+  label: 唇甲青紫
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d17
+    span:
+    - body
+    - 11868
+    - 12123
+  label: 轉筋
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d18
+    span:
+    - body
+    - 12123
+    - 12404
+  label: 目眩直視目反露睛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d19
+    span:
+    - body
+    - 12404
+    - 12776
+  label: 呃逆
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d20
+    span:
+    - body
+    - 12776
+    - 13113
+  label: 發斑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d21
+    span:
+    - body
+    - 13113
+    - 13351
+  label: 結胸
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d22
+    span:
+    - body
+    - 13351
+    - 13535
+  label: 腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d23
+    span:
+    - body
+    - 13535
+    - 13854
+  label: 蛔蟲
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d24
+    span:
+    - body
+    - 13854
+    - 13927
+  label: 口中糜爛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d25
+    span:
+    - body
+    - 13927
+    - 14106
+  label: 解後大小便不利
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d26
+    span:
+    - body
+    - 14106
+    - 14492
+  label: 痧復
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d27
+    span:
+    - body
+    - 14492
+    - 15103
+  label: 妊娠
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d28
+    span:
+    - body
+    - 15103
+    - 15437
+  label: 發狂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d29
+    span:
+    - body
+    - 15437
+    - 15717
+  label: 下血
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d30
+    span:
+    - body
+    - 15717
+    - 15978
+  label: 變證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d31
+    span:
+    - body
+    - 15978
+    - 16218
+  label: 死症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d32
+    span:
+    - body
+    - 16218
+    - 16321
+  label: 禁忌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d33
+    span:
+    - body
+    - 16321
+    - 16751
+  label: 預防
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg045_jc_001-d5d34
+    span:
+    - body
+    - 16751
+    - 17990
+  label: 或問
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg045_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 10707
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eg045_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 5089
+  label: 藥法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg045_jc_003-d6d3
+    span:
+    - body
+    - 5089
+    - 5350
+  label: 刺法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg045_jc_003-d6d4
+    span:
+    - body
+    - 5350
+    - 5616
+  label: 除穢薰法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg045_jc_003-d6d5
+    span:
+    - body
+    - 5616
+    - 10707
+  label: 治驗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg045_jc_000-d7.h1s1
+    span:
+    - body
+    - 0
+    - 203
+  label: 跋一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg045_jc_000-d8.h1s1
+    span:
+    - body
+    - 203
+    - 473
+  label: 跋二
+  type: section
+  level: 1
+hash: sha256:09ea5218fc1515c12c57407aba41f082cfa7591de01b7c8baec167e847d79263
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
